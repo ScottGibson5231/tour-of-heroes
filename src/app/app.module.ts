@@ -18,5 +18,5 @@ import { HeroesComponent } from './component/heroes/heroes.component';
   ],
   providers: [],
   bootstrap: [AppComponent]
-})
+}) 
 export class AppModule { }
